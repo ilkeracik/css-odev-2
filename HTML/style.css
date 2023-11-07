@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+/******* LOGO *******/
+#logo {
+    margin: 1% 40%;
+    
+
+}
+
+/*********** MAIN *********/
+.content {
+    background-color: #EEE;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    text-align: center;
+    width: 1700px;
+    height: 60px;
+
+}
+
+/**************** EKLER *************/
+.three {
+    width: 397px;
+    height: 95px;
+    float: left;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin: 1px;
+    font-size: small;
+}
+.three1 {
+    width: 650px;
+    height: 95px;
+    margin:100px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    float: left;
+    background-color: #7EE5DA;
+    text-align: center;
+    font-size: small;
+}
+.three2 {
+    font-size: small;
+    width: 650px;
+    height: 95px;
+    float: left;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin: 1px;
+}
+.genel1 {
+    width: 1700px;
+    margin-top: 1px;
+}
+
+
+/********* LISANS *********/
+.center {
+    margin-left: 45%;
+    text-align: center;
+    display: inline-block;
+}
